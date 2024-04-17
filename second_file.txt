@@ -3,3 +3,5 @@ this is the second file
 new line
 
 modified from owner
+
+owner modified
